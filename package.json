@@ -1,0 +1,17 @@
+{
+  "name": "datastructuresalgorithmsjavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "João Pedro",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.20.7",
+    "@babel/plugin-transform-typescript": "^7.20.7",
+    "@babel/preset-env": "^7.20.2"
+  }
+}
